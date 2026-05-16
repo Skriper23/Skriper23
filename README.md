@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.svg" width="100%" alt="Pixel Art Banner" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=FRAN+WAGNER&loop=false" alt="Header" />
 
 <br/>
