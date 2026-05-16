@@ -12,20 +12,22 @@
 
 ---
 
-```
-  Fran Wagner · Building software in Varaždin.
-  Studying @ FOI · UNIZG · 2nd year
-  Working @ HPB · Card Ops & ATM Monitoring
-  Seeking Internship / Junior Dev Role
-```
+<div align="center">
+
+Fran Wagner · Building software in Varaždin.<br/>
+Studying @ FOI · UNIZG · 2nd year<br/>
+Working @ HPB · Card Ops & ATM Monitoring<br/>
+Seeking Internship / Junior Dev Role
+
+</div>
 
 ---
 
 <div align="center">
 
-[![](https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=FFFFFF)](mailto:wagner.fran05@gmail.com)
-[![](https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/Skriper23)
-[![](https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/fran-wagner)
-[![](https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=FFFFFF)](https://instagram.com/fran.wagner_)
+[![](https://img.shields.io/badge/gmail-%230d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:wagner.fran05@gmail.com)
+[![](https://img.shields.io/badge/github-%230d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Skriper23)
+[![](https://img.shields.io/badge/linkedin-%230d1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fran-wagner)
+[![](https://img.shields.io/badge/instagram-%230d1117?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fran.wagner_)
 
 </div>
