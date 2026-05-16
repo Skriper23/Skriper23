@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 30" width="832" height="120" shape-rendering="crispEdges">
+  <defs>
+    <style>
+      @keyframes tw { 0%,100% { opacity:1 } 50% { opacity:.08 } }
+      .s1  { animation: tw 2.0s ease-in-out infinite 0.0s }
+      .s2  { animation: tw 3.0s ease-in-out infinite 0.5s }
+      .s3  { animation: tw 2.5s ease-in-out infinite 1.0s }
+      .s4  { animation: tw 4.0s ease-in-out infinite 1.5s }
+      .s5  { animation: tw 3.0s ease-in-out infinite 0.7s }
+      .s6  { animation: tw 2.8s ease-in-out infinite 2.0s }
+      .s7  { animation: tw 3.5s ease-in-out infinite 0.3s }
+      .s8  { animation: tw 4.5s ease-in-out infinite 2.5s }
+      .s9  { animation: tw 2.2s ease-in-out infinite 0.8s }
+      .s10 { animation: tw 3.8s ease-in-out infinite 1.2s }
+    </style>
+  </defs>
+
+  <!-- sky -->
+  <rect width="208" height="30" fill="#0d1117"/>
+
+  <!-- pixel cityscape silhouette -->
+  <polygon fill="white" points="
+    0,30  0,17
+    9,17  9,20
+    14,20 14,13
+    24,13 24,18
+    30,18 30,15
+    40,15 40,21
+    48,21 48,11
+    60,11 60,17
+    68,17 68,14
+    78,14 78,19
+    86,19 86,12
+    98,12 98,16
+    106,16 106,10
+    118,10 118,17
+    126,17 126,13
+    136,13 136,21
+    144,21 144,15
+    156,15 156,18
+    164,18 164,12
+    174,12 174,16
+    182,16 182,13
+    194,13 194,19
+    208,19 208,30
+  "/>
+
+  <!-- moon -->
+  <rect x="197" y="2" width="3" height="3" fill="white"/>
+  <rect x="199" y="3" width="1" height="1" fill="#0d1117"/>
+
+  <!-- twinkling stars -->
+  <rect class="s1"  x="5"   y="2" width="1" height="1" fill="white"/>
+  <rect class="s2"  x="20"  y="5" width="1" height="1" fill="white"/>
+  <rect class="s3"  x="34"  y="1" width="1" height="1" fill="white"/>
+  <rect class="s4"  x="45"  y="4" width="1" height="1" fill="white"/>
+  <rect class="s5"  x="63"  y="2" width="1" height="1" fill="white"/>
+  <rect class="s6"  x="80"  y="6" width="1" height="1" fill="white"/>
+  <rect class="s7"  x="95"  y="3" width="1" height="1" fill="white"/>
+  <rect class="s8"  x="112" y="1" width="1" height="1" fill="white"/>
+  <rect class="s9"  x="128" y="5" width="1" height="1" fill="white"/>
+  <rect class="s10" x="143" y="2" width="1" height="1" fill="white"/>
+  <rect class="s1"  x="160" y="4" width="1" height="1" fill="white"/>
+  <rect class="s3"  x="175" y="1" width="1" height="1" fill="white"/>
+  <rect class="s5"  x="190" y="6" width="1" height="1" fill="white"/>
+</svg>
