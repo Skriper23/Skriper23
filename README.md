@@ -17,7 +17,6 @@
 Fran Wagner · Building software in Varaždin.<br/>
 Studying @ FOI · UNIZG · 2nd year<br/>
 Working @ HPB · Card Ops & ATM Monitoring<br/>
-Seeking Internship / Junior Dev Role
 
 </div>
 
